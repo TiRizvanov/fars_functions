@@ -30,4 +30,4 @@ An introductory vignette is included to demonstrate how to use the main function
 
 ### Author
 
-This package was created as part of a Coursera course by Johns Hopkins University. The task was accomplished by Timur Rizvanov, who can be reached at "1812timurr@gmail.com"
+This package was created as part of a Coursera course by Johns Hopkins University. The task was accomplished by Timur Rizvanov, who can be reached at 1812timurr@gmail.com
